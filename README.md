@@ -5,4 +5,4 @@ Este projeto foi desenvolvido com a finalidade de ser submetido no teste aplicad
 			GET - /v1/public/characters
 			GET - /V1/public/characters/{characterId}/stories
 			Se você quiser ver mais sobre os métodos, aqui os documentos:
-			href="https://developer.marvel.com/docs">Marvel API
+			href="https://developer.marvel.com/docs">Marvel API.
